@@ -1,0 +1,72 @@
+INFO:root:Date : 29/06/2022 16:37:30
+INFO:root:CPU Numbers : 4
+INFO:root:CPU Numbers : 4
+INFO:root:Usage : 14.9%
+INFO:root:scputimes(user=7811.64, nice=0.0, system=4464.38, idle=55462.01)
+INFO:root:scpustats(ctx_switches=43508, interrupts=475014, soft_interrupts=31414102, syscalls=724185)
+INFO:root:svmem(total=8589934592, available=3144470528, percent=63.4, used=4923756544, free=166567936, active=2978099200, inactive=2966261760, wired=1945657344)
+INFO:root:sswap(total=2147483648, used=513802240, free=1633681408, percent=23.9, sin=4756467712, sout=45211648)
+INFO:root:[sdiskpart(device='/dev/disk1s5s1', mountpoint='/', fstype='apfs', opts='ro,local,rootfs,dovolfs,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s4', mountpoint='/System/Volumes/VM', fstype='apfs', opts='rw,noexec,local,dovolfs,dontbrowse,journaled,multilabel,noatime', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s2', mountpoint='/System/Volumes/Preboot', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s6', mountpoint='/System/Volumes/Update', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s1', mountpoint='/System/Volumes/Data', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s5', mountpoint='/System/Volumes/Update/mnt1', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024)]
+INFO:root:sdiskusage(total=121018208256, used=105743544320, free=15274663936, percent=87.4)
+INFO:root:
+
+INFO:root:Date : 29/06/2022 16:37:40
+INFO:root:CPU Numbers : 4
+INFO:root:CPU Numbers : 4
+INFO:root:Usage : 32.7%
+INFO:root:scputimes(user=7823.65, nice=0.0, system=4468.28, idle=55486.12)
+INFO:root:scpustats(ctx_switches=25815, interrupts=494671, soft_interrupts=31457082, syscalls=722949)
+INFO:root:svmem(total=8589934592, available=3066937344, percent=64.3, used=5001220096, free=94081024, active=2975047680, inactive=2961199104, wired=2026172416)
+INFO:root:sswap(total=2147483648, used=513802240, free=1633681408, percent=23.9, sin=4756467712, sout=45211648)
+INFO:root:[sdiskpart(device='/dev/disk1s5s1', mountpoint='/', fstype='apfs', opts='ro,local,rootfs,dovolfs,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s4', mountpoint='/System/Volumes/VM', fstype='apfs', opts='rw,noexec,local,dovolfs,dontbrowse,journaled,multilabel,noatime', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s2', mountpoint='/System/Volumes/Preboot', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s6', mountpoint='/System/Volumes/Update', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s1', mountpoint='/System/Volumes/Data', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s5', mountpoint='/System/Volumes/Update/mnt1', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024)]
+INFO:root:sdiskusage(total=121018208256, used=105743540224, free=15274668032, percent=87.4)
+INFO:root:
+
+INFO:root:Date : 29/06/2022 16:37:50
+INFO:root:CPU Numbers : 4
+INFO:root:CPU Numbers : 4
+INFO:root:Usage : 26.6%
+INFO:root:scputimes(user=7830.67, nice=0.0, system=4471.89, idle=55515.51)
+INFO:root:scpustats(ctx_switches=31665, interrupts=489461, soft_interrupts=31472136, syscalls=722919)
+INFO:root:svmem(total=8589934592, available=3090776064, percent=64.0, used=4976975872, free=118030336, active=2972143616, inactive=2961076224, wired=2004832256)
+INFO:root:sswap(total=2147483648, used=513802240, free=1633681408, percent=23.9, sin=4756467712, sout=45211648)
+INFO:root:[sdiskpart(device='/dev/disk1s5s1', mountpoint='/', fstype='apfs', opts='ro,local,rootfs,dovolfs,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s4', mountpoint='/System/Volumes/VM', fstype='apfs', opts='rw,noexec,local,dovolfs,dontbrowse,journaled,multilabel,noatime', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s2', mountpoint='/System/Volumes/Preboot', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s6', mountpoint='/System/Volumes/Update', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s1', mountpoint='/System/Volumes/Data', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s5', mountpoint='/System/Volumes/Update/mnt1', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024)]
+INFO:root:sdiskusage(total=121018208256, used=105743605760, free=15274602496, percent=87.4)
+INFO:root:
+
+INFO:root:Date : 29/06/2022 16:38:00
+INFO:root:CPU Numbers : 4
+INFO:root:CPU Numbers : 4
+INFO:root:Usage : 12.5%
+INFO:root:scputimes(user=7836.9, nice=0.0, system=4475.63, idle=55545.53)
+INFO:root:scpustats(ctx_switches=13989, interrupts=515436, soft_interrupts=31485318, syscalls=710600)
+INFO:root:svmem(total=8589934592, available=2967916544, percent=65.4, used=5030211584, free=51400704, active=2918985728, inactive=2910617600, wired=2111225856)
+INFO:root:sswap(total=2147483648, used=513802240, free=1633681408, percent=23.9, sin=4759949312, sout=45346816)
+INFO:root:[sdiskpart(device='/dev/disk1s5s1', mountpoint='/', fstype='apfs', opts='ro,local,rootfs,dovolfs,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s4', mountpoint='/System/Volumes/VM', fstype='apfs', opts='rw,noexec,local,dovolfs,dontbrowse,journaled,multilabel,noatime', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s2', mountpoint='/System/Volumes/Preboot', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s6', mountpoint='/System/Volumes/Update', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s1', mountpoint='/System/Volumes/Data', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s5', mountpoint='/System/Volumes/Update/mnt1', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024)]
+INFO:root:sdiskusage(total=121018208256, used=105743650816, free=15274557440, percent=87.4)
+INFO:root:
+
+INFO:root:Date : 29/06/2022 16:38:10
+INFO:root:CPU Numbers : 4
+INFO:root:CPU Numbers : 4
+INFO:root:Usage : 8.3%
+INFO:root:scputimes(user=7840.41, nice=0.0, system=4477.99, idle=55579.66)
+INFO:root:scpustats(ctx_switches=13994, interrupts=480555, soft_interrupts=31491261, syscalls=718692)
+INFO:root:svmem(total=8589934592, available=3001081856, percent=65.1, used=4997156864, free=51007488, active=3028803584, inactive=2943762432, wired=1968353280)
+INFO:root:sswap(total=2147483648, used=513802240, free=1633681408, percent=23.9, sin=4759969792, sout=45346816)
+INFO:root:[sdiskpart(device='/dev/disk1s5s1', mountpoint='/', fstype='apfs', opts='ro,local,rootfs,dovolfs,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s4', mountpoint='/System/Volumes/VM', fstype='apfs', opts='rw,noexec,local,dovolfs,dontbrowse,journaled,multilabel,noatime', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s2', mountpoint='/System/Volumes/Preboot', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s6', mountpoint='/System/Volumes/Update', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s1', mountpoint='/System/Volumes/Data', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s5', mountpoint='/System/Volumes/Update/mnt1', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024)]
+INFO:root:sdiskusage(total=121018208256, used=105743794176, free=15274414080, percent=87.4)
+INFO:root:
+
+INFO:root:Date : 29/06/2022 16:38:20
+INFO:root:CPU Numbers : 4
+INFO:root:CPU Numbers : 4
+INFO:root:Usage : 14.3%
+INFO:root:scputimes(user=7843.5, nice=0.0, system=4480.57, idle=55614.03)
+INFO:root:scpustats(ctx_switches=15307, interrupts=492763, soft_interrupts=31496701, syscalls=720918)
+INFO:root:svmem(total=8589934592, available=3015577600, percent=64.9, used=4982398976, free=55586816, active=2964041728, inactive=2952880128, wired=2018357248)
+INFO:root:sswap(total=2147483648, used=513802240, free=1633681408, percent=23.9, sin=4760104960, sout=45346816)
+INFO:root:[sdiskpart(device='/dev/disk1s5s1', mountpoint='/', fstype='apfs', opts='ro,local,rootfs,dovolfs,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s4', mountpoint='/System/Volumes/VM', fstype='apfs', opts='rw,noexec,local,dovolfs,dontbrowse,journaled,multilabel,noatime', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s2', mountpoint='/System/Volumes/Preboot', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s6', mountpoint='/System/Volumes/Update', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s1', mountpoint='/System/Volumes/Data', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024), sdiskpart(device='/dev/disk1s5', mountpoint='/System/Volumes/Update/mnt1', fstype='apfs', opts='rw,local,dovolfs,dontbrowse,journaled,multilabel', maxfile=255, maxpath=1024)]
+INFO:root:sdiskusage(total=121018208256, used=105743777792, free=15274430464, percent=87.4)
+INFO:root:
+
